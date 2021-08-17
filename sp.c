@@ -1,6 +1,4 @@
 /*i
-Shawn Lai G01182226
-CS262, H5
 Create a program that accepts user input and store it in a dynamic array of structs.
 */
 #include<stdio.h>
